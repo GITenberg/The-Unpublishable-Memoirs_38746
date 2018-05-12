@@ -1,0 +1,33 @@
+_repo: The-Unpublishable-Memoirs_38746
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rosenbach, A. S. W. (Abraham Simon Wolf)
+    alias: Rosenbach, Abraham Simon Wolf
+    birthdate: 1876
+    deathdate: 1952
+    gutenberg_agent_id: '39630'
+    url: http://www.gutenberg.org/2009/agents/39630
+    wikipedia: http://en.wikipedia.org/wiki/A._S._W._Rosenbach
+description: ''
+gutenberg_issued: '2012-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38746'
+  lccn: '17030280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Collectors and collecting'
+- !lcc 'PS'
+tableOfContents: The unpublishable memoirs -- The three trees -- The purple hawthorn
+  -- The disappearance of Shakespeare -- The colonial secretary -- In defence of his
+  name -- "The hundred and first story" -- The lady of the breviary -- The evasive
+  pamphlet -- The great discovery -- The fifteen joys of marriage.
+title: The Unpublishable Memoirs
+url: http://www.gutenberg.org/ebooks/38746
