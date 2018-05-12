@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39630
     wikipedia: http://en.wikipedia.org/wiki/A._S._W._Rosenbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38746#The-Unpublishable-Memoirs
 gutenberg_issued: '2012-02-01'
 gutenberg_type: Text
 identifiers:
